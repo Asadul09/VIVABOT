@@ -12,7 +12,7 @@ import interviewRouter from './routes/interview.route.js';
 
 const app = express();
 app.use(cors({
-   origin: 'https://vivabot-lake.vercel.app/', 
+   origin: 'https://vivabot-lake.vercel.app', 
    credentials: true
 }));
 
