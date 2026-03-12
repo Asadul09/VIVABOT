@@ -15,7 +15,7 @@ function Pricing() {
       credits: 100,
       description: "Perfect for beginners starting interview.",
       features: [
-        "200 AI Interview Credits",
+        "100 AI Interview Credits",
         "Basic Performance Report",
         "Voice Interview Access",
         "Limited History Tracking",
