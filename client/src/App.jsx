@@ -10,7 +10,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const ServerURL = "https://vivabot-6ml6.onrender.com/";
+export const ServerURL = "http://localhost:8000";
 
 function App() {
   const dispatch = useDispatch();
