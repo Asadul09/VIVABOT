@@ -8,7 +8,7 @@ export const googleAuth = async(req, res) => {
 
         if (!user) {
             
-            user = await User.create({ name, email});
+            user = await User.create({ name, email, credits: 200 });
         }
 
         const token = await genToken(user._id);
