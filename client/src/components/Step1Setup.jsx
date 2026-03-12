@@ -24,7 +24,7 @@ import {
 
 import axios from 'axios'
 
-const ServerUrl = "http://localhost:8000";
+const ServerUrl = "https://vivabot-6ml6.onrender.com";
 
 function Step1Setup({ onStart }) {
   const { userData } = useSelector((state) => state.user)
