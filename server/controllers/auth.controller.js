@@ -7,8 +7,8 @@ export const googleAuth = async(req, res) => {
         let user = await User.findOne({ email });
 
         if (!user) {
-            // ✅ Set default credits for new user
-            user = await User.create({ name, email, credits: 100 });
+            
+            user = await User.create({ name, email});
         }
 
         const token = await genToken(user._id);
