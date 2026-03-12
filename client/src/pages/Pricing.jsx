@@ -12,7 +12,7 @@ function Pricing() {
       id: "free",
       name: "Free",
       price: "0tk",
-      credits: 100,
+      credits: 200,
       description: "Perfect for beginners starting interview.",
       features: [
         "200 AI Interview Credits",
