@@ -35,19 +35,19 @@ VivaBot simulates real-world interview experiences, making preparation efficient
 
 🖼️ Project Screenshots
 
-Home Page : <img width="1920" height="3507" alt="home page" src="https://github.com/user-attachments/assets/8a513c25-aec2-49a4-b453-50f41427cc4a" />
+<h2>Home Page</h2> : <img width="1920" height="3507" alt="home page" src="https://github.com/user-attachments/assets/8a513c25-aec2-49a4-b453-50f41427cc4a" />
 
 
-Interview Page 1 : <img width="1840" height="883" alt="interview-1" src="https://github.com/user-attachments/assets/7f93f3bf-2c12-4bc7-b5bd-4fbd77a2f37c" />
+<h2>Interview Page 1</h2> : <img width="1840" height="883" alt="interview-1" src="https://github.com/user-attachments/assets/7f93f3bf-2c12-4bc7-b5bd-4fbd77a2f37c" />
 
 
-Interview Page 2 : <img width="1804" height="829" alt="interview-2" src="https://github.com/user-attachments/assets/a147ab19-f534-4f20-9f4b-8ec0dd1b0ca6" />
+<h2>Interview Page 2</h2> : <img width="1804" height="829" alt="interview-2" src="https://github.com/user-attachments/assets/a147ab19-f534-4f20-9f4b-8ec0dd1b0ca6" />
 
 
-Performance Dashboard : <img width="1886" height="879" alt="performance" src="https://github.com/user-attachments/assets/80fff8f9-a923-49e6-a441-b422d51a8fc5" />
+<h2>Performance Dashboard</h2> : <img width="1886" height="879" alt="performance" src="https://github.com/user-attachments/assets/80fff8f9-a923-49e6-a441-b422d51a8fc5" />
 
 
-History Page : <img width="1445" height="865" alt="history" src="https://github.com/user-attachments/assets/f54bc977-ea2d-4c85-91bd-b2417a92daf9" />
+<h2>History Page</h2> : <img width="1445" height="865" alt="history" src="https://github.com/user-attachments/assets/f54bc977-ea2d-4c85-91bd-b2417a92daf9" />
 
 
-Result PDF : <img width="740" height="821" alt="result pdf" src="https://github.com/user-attachments/assets/d2cdb25c-cd9b-4d96-afed-430244205bf6" />
+<h2>Result PDF</h2> :  <img width="740" height="821" alt="result pdf" src="https://github.com/user-attachments/assets/d2cdb25c-cd9b-4d96-afed-430244205bf6" />
