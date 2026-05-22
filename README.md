@@ -2,8 +2,7 @@
   <img src="https://img.shields.io/badge/VivaBot-AI_Interview_Assistant-blue" alt="VivaBot Badge" width="300">
 </h2>
 
-Check out the live demo here: [Click Here](vivabot-lake.vercel.app) : vivabot-lake.vercel.app
-
+Check out the live demo here: [Click Here](vivabot-lake.vercel.app) : https://vivabot-lake.vercel.app/
 
 📝 Project Description
 
